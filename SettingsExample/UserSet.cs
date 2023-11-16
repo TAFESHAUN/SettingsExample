@@ -1,6 +1,9 @@
 ﻿using SQLite;
 
 namespace SettingsExample;
+/// <summary>
+/// This is the user setting data model
+/// </summary>
 public class UserSet
 {
     #region userdata
