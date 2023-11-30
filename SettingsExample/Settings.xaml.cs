@@ -4,7 +4,7 @@ namespace SettingsExample;
 
 /// <summary>
 /// We could also save these settings to CSV or some Webservice but SQLite is fast, easy and feature rich
-/// If we want to use defaults we can simply use MAUI preferences
+/// If we want to use defaults we can simply use MAUI preferences, TESTING MERGE TEST 1
 /// OR a combo of both!
 /// LINK: https://learn.microsoft.com/en-us/dotnet/maui/platform-integration/storage/preferences?tabs=windows
 /// </summary>
