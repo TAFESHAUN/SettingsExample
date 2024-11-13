@@ -36,7 +36,7 @@
                 <!--Age to be a birthday year/Confirm DOB VS text entry input-->
 
                 <Label Grid.Row="2" Grid.Column="1">ENTER SOME NEW DATA</Label>
-                <Entry Grid.Row="3" Grid.Column="1" x:Name="someEntry"></Entry>
+                <Entry Grid.Row="3" Grid.Column="1" x:Name="someEntry" Placeholder="Some Text"></Entry>
 
                 <!-- Brightness Slider -->
                 <Label Text="Brightness" Grid.Row="4" Grid.Column="1"/>
